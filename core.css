@@ -1,0 +1,28 @@
+﻿body {
+    margin: 0px;
+    background-color: #DEDEDE;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.display {
+    margin: 200px auto 80px auto;
+    height: 500px;
+    width: 80%;
+}
+
+a {
+    color: #006;
+}
+
+a.action {
+    font-weight: bold;
+}
+
+.controls a {
+    margin: 20px;
+}
